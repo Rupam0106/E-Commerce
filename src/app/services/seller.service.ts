@@ -53,7 +53,6 @@ export class SellerService {
           this.router.navigate(['seller-home']);
         } else {
           this.isLoginError.emit(true);
-          this.toastr.error('Seller not found');
         }
       });
   }

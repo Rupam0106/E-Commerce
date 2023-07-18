@@ -16,7 +16,6 @@ export class SellerAuthComponent {
     this.seller.reloadSeller();
   }
   signUp(data: any) {
-    console.log(data);
     this.seller.sellerSignUp(data);
   }
   login(data: any) {

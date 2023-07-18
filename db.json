@@ -86,6 +86,15 @@
       "color": "Black",
       "description": "Best shoes for Running",
       "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 3
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
       "id": 4
     },
     {
@@ -146,6 +155,12 @@
       "email": "rupam1@gmail.com",
       "password": "123",
       "id": 5
+    },
+    {
+      "name": "rupam123",
+      "email": "devgupta01@gmail.com",
+      "password": "123456",
+      "id": 6
     }
   ],
   "cart": [
@@ -178,6 +193,14 @@
       "totalPrice": 6100,
       "userId": 1,
       "id": 3
+    },
+    {
+      "email": "rupam@gmail.com",
+      "address": "fcsadsa",
+      "contact": "84609888888",
+      "totalPrice": 9100,
+      "userId": 6,
+      "id": 4
     }
   ]
 }
